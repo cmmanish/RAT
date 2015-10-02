@@ -1,0 +1,10 @@
+{
+  "Default_Project_Name": "lyvesuite-automation",
+  "Default_Section_Name": "All_Tests",
+  "Default_Suite_Name": "lyve_suite",
+  "Default_Case_Type": "Automated",
+  "TR_Base_URL": "https://testrail.blackpearlsystems.com/index.php?/api/v2/",
+  "TR_User_Name": "testrailreporter@lyveminds.com",
+  "TR_User_PW": "2vhSJ5982Ge77d8pwW6H",
+  "Tester_Name": "lyvesuite-automation"
+}

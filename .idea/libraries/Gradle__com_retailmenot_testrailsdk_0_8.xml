@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.retailmenot:testrailsdk:0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.retailmenot/testrailsdk/0.8/b6083556de96318a7619dbfa07822a4ea939bac2/testrailsdk-0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.retailmenot/testrailsdk/0.8/80c0a064b620276968b19d2940034da0a5d935c6/testrailsdk-0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
